@@ -1,0 +1,5 @@
+[book]
+authors = [Tyler Morgan<tylermorgan@tylermorgan86.com>]
+language = "en"
+multilingual = false
+src = "src"
