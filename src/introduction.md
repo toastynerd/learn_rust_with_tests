@@ -18,6 +18,7 @@ a book with "tests" in the title you're already familiar with what they are and
 why they're important. I'll try to include my reasoning for using certain strategies
 but unless someone wants to help on this project I'm limited by own knowledge as are we all.
 If you see room for improvement just let me know. For now, this is going to live here: https://github.com/toastynerd/learn_rust_with_tests
+That's also where you'll be able to find all the example code for the book if you get stuck. 
 
 With all that said, let's get after some (hopefully) well tested code!
 
